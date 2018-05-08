@@ -8,7 +8,7 @@ The sentiment analysis is a type of machine learning task in which with the help
 ## Implementation
 
 ## Dataset
-
+The data was scraped form the website Booking.com. and is originally owned by the Booking.com. The data consists of over 515,000 customer reviews from 1493 hotels across the continent of Europe. The data is provided for csv format file.
 ## Input data format
 
 ## Evaluation
